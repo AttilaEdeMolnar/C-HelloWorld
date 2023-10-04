@@ -2,4 +2,4 @@
 
 ### In action:
 
-![screenshot]
+![screenshot.png]
