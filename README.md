@@ -1,5 +1,6 @@
 
-# Simple Hello World program written in C.
+# Hello World in C.
+It's a simple program that writes Hello World. I wrote it in C.
 
 ### In action:
 
