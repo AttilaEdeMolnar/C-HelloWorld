@@ -1,5 +1,6 @@
+
 # Simple Hello World program written in C.
 
 ### In action:
 
-![screenshot]
+![Screenshot 2023-10-04 191837](https://github.com/MolnarAttilaEde/HelloWorldInC/assets/57458922/847254ec-f30e-4771-a177-671e677e45f6)
